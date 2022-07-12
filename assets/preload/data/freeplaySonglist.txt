@@ -1,3 +1,2 @@
 Tutorial:gf:0:Easy,Normal,Hard:#B72863
 lo fight:whitty:Easy,Normal,Hard:#B72863
- 
